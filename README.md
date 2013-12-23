@@ -1,1 +1,2 @@
-# Omnimedia.Core
+[Omnimedia](http://omnimedia.qc.ca).Core
+==================================================
